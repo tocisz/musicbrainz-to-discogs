@@ -1,1 +1,4 @@
 sync_state.json
+settings.json
+.env
+__pycache__
